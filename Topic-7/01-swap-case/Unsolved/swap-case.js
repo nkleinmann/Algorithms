@@ -12,6 +12,5 @@ var swapCase = function(str) {
                 finalString += letter.toUpperCase();
             }
         }
-        // console.log(finalString);
         return finalString;
 };
