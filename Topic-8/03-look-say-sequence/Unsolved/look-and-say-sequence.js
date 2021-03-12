@@ -15,8 +15,8 @@ var lookAndSay = function(n) {
         } else {
             result += currentCount;
             result += currentDigit;
-            console.log(`currentCount ${currentCount}`);
             console.log(`currentDigit ${currentDigit}`);
+            console.log(`currentCount ${currentCount}`);
             currentCount = 1;
             currentDigit = digit;
         }
