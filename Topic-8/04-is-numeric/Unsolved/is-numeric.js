@@ -4,7 +4,6 @@ var isNumeric = function(str) {
     console.log(str);
     for (i=0; i<str.length; i++){
         console.log(str[i]);
-        if ()
-        
+        // if ();     
     }
 };
